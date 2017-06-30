@@ -2,13 +2,20 @@
 layout: default
 ---
 
+Contribution to the discussion of A critical evaluation of the current ‘p-value controversy’
+
+Solari
+
+Biometrical Journal
+
+
 [Simultaneous Control of All False Discovery Proportions by an Extension of Hommel's Method](https://arxiv.org/abs/1611.06739)
 Meijer, Krebs, Solari, Goeman
 arXiv:1611.06739
 
 
-Minimally Adaptive BH: a tiny but uniform improvement of the Procedure of Benjamini and Hochberg
-Solari, Goeman
+Minimally Adaptive BH: a tiny but uniform improvement of the Procedure of Benjamini and Hochberg\\
+Solari, Goeman\\
 Biometrical Journal 2016
 
 
