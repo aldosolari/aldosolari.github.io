@@ -20,7 +20,7 @@ var holder ="";
             }
             if (gate==0) {polygon.unshift(0);}
         }
-        holder = permuda[polygon[0]].toUpperCase();
+        holder = permuda[polygon[0]].toLowerCase();
         for     (ind = 1; ind < polygon.length; ind++) {
             holder= holder + permuda[polygon[ind]];
         }
@@ -40,7 +40,7 @@ function arcperm(eyedee) {
     ewig = setInterval(function() {document.getElementById(eyedee).innerHTML = "Image " + permuter(word1); word1=holder;}, 1);}
 
 function testmac() {
-    var isMac = navigator.platform.toUpperCase().indexOf('MAC')>=0;
+    var isMac = navigator.platform.toLowerCase().indexOf('MAC')>=0;
     var ua = navigator.userAgent.toLowerCase();
     var bool=0;
     if (ua.indexOf('safari') != -1) {
