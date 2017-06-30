@@ -16,7 +16,7 @@ Family tree
              <ul>
                   <li>giacomo <br> 1812 </li>
   			          <li>leonardo <br> 1822 </li>
-                  <li>giovanni <br> 1825
+                  <li>giovanni <br> 1825 </li>
              </ul>
     </ul>
 </ul>
