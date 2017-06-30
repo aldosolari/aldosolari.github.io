@@ -5,7 +5,7 @@ var holder ="";
         var gate=0;
         var next = 0;
         var permuda = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
-        word = word.toUpperCase();
+        word = word.toLowerCase();
         var polygon = [];
         for (ind=0; ind<word.length;ind++) {
             polygon[ind] = word.charCodeAt(ind) - 97;
@@ -41,7 +41,7 @@ function arcperm(eyedee) {
 
 function testmac() {
     var isMac = navigator.platform.toUpperCase().indexOf('MAC')>=0;
-    var ua = navigator.userAgent.toUpperCase();
+    var ua = navigator.userAgent.toLowerCase();
     var bool=0;
     if (ua.indexOf('safari') != -1) {
         if (ua.indexOf('chrome') > -1) {
