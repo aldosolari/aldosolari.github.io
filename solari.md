@@ -49,12 +49,18 @@ Family tree
                            <li> <a href="#">ciro <br> 1895 </a> 
                             <ul> 
                                 <li><a href="#">gianni <br> 1930 </a> </li>
-                                <li><a href="#">sisto <br> 1938 </a> </li>
+                                <li><a href="#">sisto <br> 1938 </a> 
       	                   </li>
                            </ul>
                            <li><a href="#">aldo <br> 1898 </a> </li>
                            <li><a href="#">alceo <br> 1899 </a> </li>
                            <li><a href="#">alfeo <br> 1899 </a> 
                            <ul> 
+                           <li><a href="http://it.wikipedia.org/wiki/Tito_Solari_Capellari">tito <br> 1939 </a> </li>
+                                <li><a href="#">alceo <br> 1941 </a> </li>
+                                 <li><a href="#">dino <br> 1946 </a> </li>
+                           </li>
+                           </ul>
+                           <li><a href="#">ilo <br> 1902 </a> </li>
 
 
