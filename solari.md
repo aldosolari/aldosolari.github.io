@@ -7,62 +7,61 @@ Family tree
 -->
 
 <div class="tree">
-<small><small><small>
 <ul>
-    <li><a href="http://aldosolari.net/solari/antonio.html">antonio <br> 1738 </a>
+    <li>antonio <br> 1738
 		<ul>
-		    <li><a href="http://aldosolari.net/solari/giacomo.html">giacomo <br> 1764 </a> 
+		    <li>giacomo <br> 1764
         <ul>
-             <li><a href="http://aldosolari.net/solari/antonio2.html">antonio <br> 1793 </a> 
+             <li>antonio <br> 1793 
              <ul>
-                  <li><a href="http://aldosolari.net/solari/glg.html">giacomo <br> 1812 </a> </li>
-  			          <li><a href="http://aldosolari.net/solari/glg.html">leonardo <br> 1822 </a> </li>
-                  <li><a href="http://aldosolari.net/solari/glg.html"> giovanni <br> 1825 </a>
+                  <li>giacomo <br> 1812 </li>
+  			          <li>leonardo <br> 1822 </li>
+                  <li>giovanni <br> 1825
                   <ul>
-                      <li><a href="#">giacomo <br> 1859 </a> 
+                      <li>giacomo <br> 1859 
                       <ul>
-                           <li><a href="#">ugo <br> 1899 </a> 
+                           <li>ugo <br> 1899
                            <ul>
-                                <li><a href="#">lucio <br> 1940 </a> </li>
-    		                        <li><a href="#">mauro <br> 1942 </a> </li>
-                                <li><a href="#"> gildo <br> 1944 </a> </li>
+                                <li>lucio <br> 1940 </li>
+    		                        <li>mauro <br> 1942 </li>
+                                <li>gildo <br> 1944 </li>
                            </li>
                            </ul>
                       </li>
                       </ul>
-    		              <li><a href="#">antonio <br> 1860 </a> 
+    		              <li>antonio <br> 1860 
       	              <ul>   
-                           <li><a href="#">giovanni <br> 1889 </a> </li>
-                           <li><a href="http://aldosolari.net/solari/remigio.html">remigio <br> 1890 </a> </li>
-                           <li><a href="#">remo <br> 1893 </a> 
+                           <li>giovanni <br> 1889 </li>
+                           <li>remigio <br> 1890 </li>
+                           <li>remo <br> 1893 
                             <ul>
-                                <li><a href="#">sergio <br> 1926 </a> </li>
-      	                        <li><a href="#">antonio <br> 1932 </a> </li>
-                                <li><a href="#"> vito <br> 1938 </a>
+                                <li>sergio <br> 1926 </li>
+      	                        <li>antonio <br> 1932  </li>
+                                <li>vito <br> 1938 
                            </li>
                            </ul>
                            <li><a href="http://it.wikipedia.org/wiki/Fermo_Solari">fermo <br> 1900 </a> </li>
-                           <li><a href="#">ettore <br> 1902 </a> </li>
+                           <li>ettore <br> 1902 </li>
     		              </li>
                       </ul>
-                      <li><a href="http://aldosolari.net/solari/giovanni.html">giovanni <br> 1864 </a>
+                      <li>giovanni <br> 1864 
                            <ul>   
-                           <li> <a href="#">ciro <br> 1895 </a> 
+                           <li> ciro <br> 1895 
                             <ul> 
-                                <li><a href="#">gianni <br> 1930 </a> </li>
-                                <li><a href="#">sisto <br> 1938 </a> </li>
+                                <li>gianni <br> 1930 </li>
+                                <li>sisto <br> 1938  </li>
       	                   </li>
                            </ul>
-                           <li><a href="#">aldo <br> 1898 </a> </li>
-                           <li><a href="#">alceo <br> 1899 </a> </li>
-                           <li><a href="http://aldosolari.net/solari/alfeo.html">alfeo <br> 1899 </a> 
+                           <li>aldo <br> 1898 </li>
+                           <li>alceo <br> 1899 </li>
+                           <li>alfeo <br> 1899 
                            <ul> 
                                 <li><a href="http://it.wikipedia.org/wiki/Tito_Solari_Capellari">tito <br> 1939 </a> </li>
-                                <li><a href="#">alceo <br> 1941 </a> </li>
-                                 <li><a href="#">dino <br> 1946 </a> </li>
+                                <li>alceo <br> 1941  </li>
+                                 <li>dino <br> 1946  </li>
                            </li>
                            </ul>
-                           <li><a href="#">ilo <br> 1902 </a> </li>
+                           <li>ilo <br> 1902 </li>
       	              </li>
                       </ul>
                   </li>
@@ -72,12 +71,11 @@ Family tree
         </ul>
         </li>
 
-        <li><a href="#">lorenzo <br> 1769 </a> </li>
-				<li><a href="#">sebastiano <br> 1772 </a> </li>
-        <li><a href="#"> osaino <br> 1785 </a> </li>
+        <li>lorenzo <br> 1769</li>
+				<li>sebastiano <br> 1772 </li>
+        <li>osaino <br> 1785 </li>
 
     </ul>
 </ul>
-</small></small></small>
 </div>
 
