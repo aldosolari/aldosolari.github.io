@@ -63,7 +63,7 @@ Family tree
 		    <li><a href="#">marco<br> 1977 </a> 
                            </li>
                            </ul>
-                           </ul>
+                           </li>
                            <li><a href="#">ilo <br> 1902 </a> </li>
 
 
