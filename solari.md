@@ -32,5 +32,17 @@ Family tree
     		              <li><a href="#">antonio <br> 1860 </a> 
       	              <ul>   
                            <li><a href="#">giovanni <br> 1889 </a> </li>
+                           <li><a href="#">remigio <br> 1890 </a> </li>
+                           <li><a href="#">remo <br> 1893 </a> 
+                            <ul>
+                                <li><a href="#">sergio <br> 1926 </a> </li>
+      	                        <li><a href="#">antonio <br> 1932 </a> </li>
+                                <li><a href="#"> vito <br> 1938 </a>
+                           </li>
+                           </ul>
+                           <li><a href="http://it.wikipedia.org/wiki/Fermo_Solari">fermo <br> 1900 </a> </li>
+                           <li><a href="#">ettore <br> 1902 </a> </li>
+    		              </li>
+                      </ul>
 
 
