@@ -70,11 +70,9 @@ Family tree
              </ul>
         </ul>
         </li>
-
         <li>lorenzo <br> 1769</li>
 				<li>sebastiano <br> 1772 </li>
         <li>osaino <br> 1785 </li>
-
     </ul>
 </ul>
 </div>
