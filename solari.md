@@ -61,7 +61,6 @@ Family tree
                                 <li><a href="#">dino <br> 1946 </a> 
                                 		<ul>
 		    <li><a href="#">marco<br> 1977 </a> 
-        <ul>
                            </li>
                            </ul>
                            <li><a href="#">ilo <br> 1902 </a> </li>
