@@ -59,11 +59,8 @@ Family tree
                            <li><a href="http://it.wikipedia.org/wiki/Tito_Solari_Capellari">tito <br> 1939 </a> </li>
                                 <li><a href="#">alceo <br> 1941 </a> </li>
                                 <li><a href="#">dino <br> 1946 </a> 
-                                		<ul>
-		    <li><a href="#">marco<br> 1977 </a> 
                            </li>
                            </ul>
-                           </li>
                            <li><a href="#">ilo <br> 1902 </a> </li>
 
 
