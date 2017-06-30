@@ -7,6 +7,7 @@ Family tree
 -->
 
 <div class="tree">
+<small>
 <ul>
     <li><a href="http://aldosolari.net/solari/antonio.html">antonio <br> 1738 </a>
 		<ul>
@@ -71,11 +72,12 @@ Family tree
         </ul>
         </li>
 
-      <li><a href="#">lorenzo <br> 1769 </a> </li>
+        <li><a href="#">lorenzo <br> 1769 </a> </li>
 				<li><a href="#">sebastiano <br> 1772 </a> </li>
         <li><a href="#"> osaino <br> 1785 </a> </li>
 
     </ul>
 </ul>
+</small>
 </div>
 
