@@ -24,7 +24,7 @@ Family tree
                            <ul>
                                 <li><a href="#">lucio <br> 1940 </a> </li>
     		                        <li><a href="#">mauro <br> 1942 </a> </li>
-                                <li><a href="#"> gildo <br> 1944 </a> </li>
+                                <li><a href="#"> gildo <br> 1944 </a> 
                            </li>
                            </ul>
                       </li>
