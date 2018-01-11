@@ -2,13 +2,18 @@
 layout: default
 ---
 
+[All-Resolutions Inference for Brain Imaging](https://www.biorxiv.org/content/biorxiv/early/2017/11/28/226126.full.pdf)
+Rosenblatt, Finos, Weeda, Solari, Goeman\\
+bioRxiv:10.1101/226126
+
+[Simultaneous Control of All False Discovery Proportions in Large-Scale Multiple Hypothesis Testing](https://arxiv.org/pdf/1611.06739.pdf)\\
+Goeman, Meijer, Krebs, Solari\\
+arXiv:1611.06739
+
+
 Contribution to the discussion of A critical evaluation of the current ‘p-value controversy’\\
 Solari\\
 Biometrical Journal
-
-[Simultaneous Control of All False Discovery Proportions by an Extension of Hommel's Method](https://arxiv.org/abs/1611.06739)\\
-Meijer, Krebs, Solari, Goeman\\
-arXiv:1611.06739
 
 
 Minimally Adaptive BH: a tiny but uniform improvement of the Procedure of Benjamini and Hochberg\\
