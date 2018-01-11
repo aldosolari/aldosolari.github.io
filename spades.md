@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[All-Resolutions Inference for Brain Imaging](https://www.biorxiv.org/content/biorxiv/early/2017/11/28/226126.full.pdf)
+[All-Resolutions Inference for Brain Imaging](https://www.biorxiv.org/content/biorxiv/early/2017/11/28/226126.full.pdf)\\
 Rosenblatt, Finos, Weeda, Solari, Goeman\\
 bioRxiv:10.1101/226126
 
