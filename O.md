@@ -2,23 +2,27 @@
 layout: default
 ---
 
-[All-Resolutions Inference for Brain Imaging](https://www.biorxiv.org/content/biorxiv/early/2017/11/28/226126.full.pdf)\\
-Rosenblatt, Finos, Weeda, Solari, Goeman\\
-bioRxiv:10.1101/226126
+
+[Permutation-based simultaneous confidence bounds for the false discovery proportion](https://arxiv.org/abs/1808.05528)\\
+Hemerik, Solari, Goeman\\
+arXiv:1808.05528
 
 [Simultaneous Control of All False Discovery Proportions in Large-Scale Multiple Hypothesis Testing](https://arxiv.org/pdf/1611.06739.pdf)\\
 Goeman, Meijer, Krebs, Solari\\
 arXiv:1611.06739
 
+[All-Resolutions Inference for Brain Imaging](https://www.biorxiv.org/content/biorxiv/early/2017/11/28/226126.full.pdf)\\
+Rosenblatt, Finos, Weeda, Solari, Goeman\\
+NeuroImage 2018 181:786-796
 
 Contribution to the discussion of A critical evaluation of the current ‘p-value controversy’\\
 Solari\\
-Biometrical Journal
+Biometrical Journal 2017 59:895-896
 
 
 Minimally Adaptive BH: a tiny but uniform improvement of the Procedure of Benjamini and Hochberg\\
 Solari, Goeman\\
-Biometrical Journal 2016
+Biometrical Journal 2017 59:776–780
 
 
 Rotation-Based Multiple Testing in the Multivariate Linear Model\\
