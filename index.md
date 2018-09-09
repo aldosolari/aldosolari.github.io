@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<kbd>![](profpic.png)</kbd>
+![](profpic.png)
 
