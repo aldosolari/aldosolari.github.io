@@ -2,5 +2,5 @@
 layout: default
 ---
 
-![](profpic.png)
+![](profpic.png = 250x250)
 
