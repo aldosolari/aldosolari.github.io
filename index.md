@@ -2,5 +2,5 @@
 layout: default
 ---
 
-![](profpic.png =250x250)
+![](profpic.png){:height="200px" width="200px"}
 
