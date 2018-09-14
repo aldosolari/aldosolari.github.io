@@ -2,6 +2,7 @@
 layout: default
 ---
 
+## PUBLICATIONS
 
 [Permutation-based simultaneous confidence bounds for the false discovery proportion](https://arxiv.org/abs/1808.05528)\\
 Hemerik, Solari, Goeman\\
