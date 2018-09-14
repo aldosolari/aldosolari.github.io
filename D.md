@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**TEACHING**
+## TEACHING
 
 ANALISI STATISTICA MULTIVARIATA\\
 [Analisi Esplorativa](https://github.com/aldosolari/AE)
