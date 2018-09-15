@@ -8,5 +8,5 @@ ANALISI STATISTICA MULTIVARIATA\\
 [Analisi Esplorativa](https://github.com/aldosolari/AE)
 
 DATA SCIENCE\\
-[Data Mining](https://github.com/aldosolari/DM)\\
-[Statistical Learning](https://github.com/aldosolari/SL)
+[Data Mining](https://aldosolari.github.io/DM/)\\
+[Statistical Learning](https://aldosolari.github.io/SL)
