@@ -6,7 +6,7 @@ layout: default
 
 [Permutation-based simultaneous confidence bounds for the false discovery proportion](https://arxiv.org/abs/1808.05528)\\
 Hemerik, Solari, Goeman\\
-arXiv:1808.05528
+arXiv:1808.05528 Accepted for publication in Biometrika
 
 [Simultaneous Control of All False Discovery Proportions in Large-Scale Multiple Hypothesis Testing](https://arxiv.org/pdf/1611.06739.pdf)\\
 Goeman, Meijer, Krebs, Solari\\
