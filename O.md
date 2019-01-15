@@ -10,7 +10,7 @@ arXiv:1808.05528 Accepted for publication in Biometrika
 
 [Simultaneous Control of All False Discovery Proportions in Large-Scale Multiple Hypothesis Testing](https://arxiv.org/pdf/1611.06739.pdf)\\
 Goeman, Meijer, Krebs, Solari\\
-arXiv:1611.06739
+arXiv:1611.06739 Accepted for publication in Biometrika
 
 [All-Resolutions Inference for Brain Imaging](https://www.biorxiv.org/content/biorxiv/early/2017/11/28/226126.full.pdf)\\
 Rosenblatt, Finos, Weeda, Solari, Goeman\\
