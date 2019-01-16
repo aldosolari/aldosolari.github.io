@@ -4,6 +4,10 @@ layout: default
 
 ## PUBLICATIONS
 
+[Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/pdf/1901.04885.pdf)\\
+Goeman, Hemerik, Solari\\
+arXiv:1901.04885
+
 [Permutation-based simultaneous confidence bounds for the false discovery proportion](https://arxiv.org/abs/1808.05528)\\
 Hemerik, Solari, Goeman\\
 arXiv:1808.05528 Accepted for publication in Biometrika
