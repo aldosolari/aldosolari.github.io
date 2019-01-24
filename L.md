@@ -5,6 +5,6 @@ layout: default
 
 ## PROJECTS
 
-PLS
+Dream Learning
 
-TBD
+Piano Lauree Scientifiche
