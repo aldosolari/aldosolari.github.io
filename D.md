@@ -4,13 +4,17 @@ layout: default
 
 ## TEACHING
 
-ANALISI STATISTICA MULTIVARIATA (Bachelor)\\
+Bachelor\\
+ANALISI STATISTICA MULTIVARIATA\\
 [Analisi Esplorativa](https://aldosolari.github.io/AE/)
 
-DATA SCIENCE (Master)\\
+Master\\
+DATA SCIENCE\\
 [Data Mining](https://aldosolari.github.io/DM/)\\
 [Statistical Learning](https://aldosolari.github.io/SL)
 
-ECOSTAT (PhD)\\
-Selective Inference
-High-Dimensional Inference
+PhD\\
+STATISTICAL INFERENCE\\
+Selective Inference\\
+STATISTICAL LEARNING\\
+High-Dimensional Inference\\
