@@ -5,6 +5,6 @@ layout: default
 
 ## PROJECTS
 
-Dream Learning
+DreamLearning
 
-Piano Lauree Scientifiche
+[Laboratorio di Statistica @ PLS](https://aldosolari.github.io/PLS/)
