@@ -17,4 +17,4 @@ PhD\\
 STATISTICAL INFERENCE\\
 Selective Inference\\
 STATISTICAL LEARNING\\
-High-Dimensional Inference\\
+High-Dimensional Inference
