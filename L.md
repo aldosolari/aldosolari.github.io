@@ -7,7 +7,7 @@ layout: default
 
 
 [Laboratorio di Statistica @ PLS](https://aldosolari.github.io/PLS/)
-Tutti parlano di come va il mondo, ma è raro vederlo fare con la forza dei numeri.
+Come va il mondo? Proviamo a rispondere con la forza dei numeri.
 
 
 DreamLearning\\
