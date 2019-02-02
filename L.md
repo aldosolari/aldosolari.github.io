@@ -6,7 +6,7 @@ layout: default
 ## PROJECTS
 
 
-[Laboratorio di Statistica @ PLS](https://aldosolari.github.io/PLS/) <br>
+[Data theraphy](https://aldosolari.github.io/PLS/) <br>
 Come va il mondo? Proviamo a rispondere con la forza dei numeri.
 
 
