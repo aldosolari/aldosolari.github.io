@@ -6,8 +6,8 @@ layout: default
 ## PROJECTS
 
 
-[Data theraphy](https://aldosolari.github.io/PLS/) <br>
-Come va il mondo? Proviamo a rispondere con la forza dei numeri.
+[Piano Lauree Scientifiche](https://aldosolari.github.io/PLS/) <br>
+Come va il mondo? La risposta dei numeri.
 
 
 [DreamLearning](https://aldosolari.github.io/DL/) <br>
