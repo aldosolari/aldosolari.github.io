@@ -4,6 +4,11 @@ layout: default
 
 ## PUBLICATIONS
 
+![](https://imgs.xkcd.com/comics/popper.png)
+At least, I don't think there's evidence. My claim that there's no evidence hasn't been falsified. At least, not that I know of.
+Randall Munroe, XKCD 2078: Popper
+
+
 [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/pdf/1901.04885.pdf)\\
 Goeman, Hemerik, Solari\\
 arXiv:1901.04885
