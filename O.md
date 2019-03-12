@@ -4,8 +4,7 @@ layout: default
 
 ## PUBLICATIONS
 
-![](https://imgs.xkcd.com/comics/popper.png)
-
+![](https://imgs.xkcd.com/comics/popper.png)\\
 At least, I don't think there's evidence. My claim that there's no evidence hasn't been falsified. At least, not that I know of.\\
 Randall Munroe, XKCD 2078: Popper
 
