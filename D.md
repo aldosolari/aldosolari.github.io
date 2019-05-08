@@ -15,6 +15,6 @@ DATA SCIENCE\\
 
 PhD\\
 STATISTICAL INFERENCE\\
-Selective Inference\\
+Statistical Inference II\\
 STATISTICAL LEARNING\\
 High-Dimensional Inference
