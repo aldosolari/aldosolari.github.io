@@ -4,7 +4,7 @@ layout: default
 
 ## PUBLICATIONS
 
-[Comment on Cai, Sun and Wang "Covariate-assisted ranking and screening for largescale
+[Comment on Cai, Sun and Wang "Covariate-assisted ranking and screening for large-scale
 two-sample inference"](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssb.12304)\\
 Goeman, Solari\\
 JRSSB 2019 81:225--226
