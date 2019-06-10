@@ -4,6 +4,10 @@ layout: default
 
 ## PUBLICATIONS
 
+[Comment on Cai, Sun and Wang ``Covariate-assisted ranking and screening for largescaletwo-sample inference''](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssb.12304)\\
+Goeman, Solari\\
+JRSSB 2019 81:225--226
+
 [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/pdf/1901.04885.pdf)\\
 Goeman, Hemerik, Solari\\
 arXiv:1901.04885
