@@ -5,11 +5,11 @@ layout: default
 ## PUBLICATIONS
 
 
-Closed testing with Globaltest with applications on metabolomics data.\\
+Closed testing with Globaltest with applications on metabolomics data\\
 Xu, Solari, Goeman\\
 Manuscript
 
-Exploratory inference in genomics and neuroscience: localizing relevant effects with confidence.\\
+Exploratory inference in genomics and neuroscience: localizing relevant effects with confidence\\
 Solari, Goeman\\
 Manuscript
 
@@ -22,7 +22,7 @@ JRSSB 2019 81:225--226
 Goeman, Hemerik, Solari\\
 arXiv:1901.04885
 
-Tuning parameter selection for ridge regression in high dimensions by a confidence region approach
+Tuning parameter selection for ridge regression in high dimensions by a confidence region approach\\
 Xu, Solari, Goeman\\
 Manuscript
 
