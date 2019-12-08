@@ -4,6 +4,15 @@ layout: default
 
 ## PUBLICATIONS
 
+
+Closed testing with Globaltest with applications on metabolomics data.\\
+Xu, Solari, Goeman\\
+Manuscript
+
+Exploratory inference in genomics and neuroscience: localizing relevant effects with confidence.\\
+Solari, Goeman\\
+Manuscript
+
 [Comment on Cai, Sun and Wang "Covariate-assisted ranking and screening for large-scale
 two-sample inference"](https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/rssb.12304)\\
 Goeman, Solari\\
@@ -13,13 +22,17 @@ JRSSB 2019 81:225--226
 Goeman, Hemerik, Solari\\
 arXiv:1901.04885
 
+Tuning parameter selection for ridge regression in high dimensions by a confidence region approach
+Xu, Solari, Goeman\\
+Manuscript
+
 [Permutation-based simultaneous confidence bounds for the false discovery proportion](https://arxiv.org/abs/1808.05528)\\
 Hemerik, Solari, Goeman\\
-arXiv:1808.05528 Accepted for publication in Biometrika
+Biometrika 2019 106:635-649
 
 [Simultaneous Control of All False Discovery Proportions in Large-Scale Multiple Hypothesis Testing](https://arxiv.org/pdf/1611.06739.pdf)\\
 Goeman, Meijer, Krebs, Solari\\
-arXiv:1611.06739 Accepted for publication in Biometrika
+Biometrika 2019 106:841--856
 
 [All-Resolutions Inference for Brain Imaging](https://www.biorxiv.org/content/biorxiv/early/2017/11/28/226126.full.pdf)\\
 Rosenblatt, Finos, Weeda, Solari, Goeman\\
