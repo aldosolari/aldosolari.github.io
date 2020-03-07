@@ -15,4 +15,4 @@ Master\\
 
 PhD\\
 STATISTICAL INFERENCE\\
-Statistical Inference II\\
+Statistical Inference II
