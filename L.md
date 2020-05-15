@@ -5,6 +5,5 @@ layout: default
 
 ## PROJECTS
 
+[DEMS > datalab](https://aldosolari.github.io/datalab/_site/index.html)
 
-[Piano Lauree Scientifiche](https://aldosolari.github.io/PLS/) <br>
-Come va il mondo? La risposta dei numeri.
