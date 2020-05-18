@@ -4,10 +4,13 @@ layout: default
 
 ## PUBLICATIONS
 
+[Comparing three groups](https://arxiv.org/pdf/2005.04930.pdf)\\
+Goeman, Solari\\
+arXiv:2005.04930
 
-Closed testing with Globaltest with applications on metabolomics data\\
+[Closed testing with Globaltest with applications on metabolomics data](https://arxiv.org/pdf/2001.01541.pdf)\\
 Xu, Solari, Goeman\\
-Manuscript
+arXiv:2001.01541
 
 Exploratory inference in genomics and neuroscience: localizing relevant effects with confidence\\
 Solari, Goeman\\
