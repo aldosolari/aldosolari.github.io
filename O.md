@@ -23,7 +23,7 @@ JRSSB 2019 81:225--226
 
 [Only Closed Testing Procedures are Admissible for Controlling False Discovery Proportions](https://arxiv.org/pdf/1901.04885.pdf)\\
 Goeman, Hemerik, Solari\\
-arXiv:1901.04885
+arXiv:1901.04885 Accepted for publication in Annals of Statistics
 
 Tuning parameter selection for ridge regression in high dimensions by a confidence region approach\\
 Xu, Solari, Goeman\\
