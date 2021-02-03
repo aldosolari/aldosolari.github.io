@@ -1,45 +1,52 @@
-<!DOCTYPE HTML SYSTEM "html.dtd">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
-<style type="text/css">
-<!--
- .tab { margin-left: 40px; }
--->
-</style>
-<BODY>
-<HTML><HEAD><TITLE>
-Aldo Solari - personal webpage
-</TITLE>
-<SCRIPT SRC="/js/index.js"> </SCRIPT>
-</HEAD>
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!--<style type="text/css"> .tab { margin-left: 40px; } </style>-->
 
-<BODY>
+    <title>Aldo Solari - personal webpage</title>
+  </head>
 
-<H1>  Aldo Solari  </H1>
+  <body>
+    <h1>Aldo Solari</h1>
+    <img src="aldo.png" align="BOTTOM" />
 
-<IMG SRC="aldo.png" ALIGN="BOTTOM"> 
+    <p>
+      Sono Professore di
+      <span
+        id="permutable2"
+        onmouseenter="permute('permutable2')"
+        onmouseleave="unpermute('Statistics','permutable2')"
+        onclick="unpermute('Statistics','permutable2')"
+      >
+        Statistica</span
+      >
+      presso l'Università degli Studi di Milano-Bicocca.
+    </p>
+    <address>
+      Dipartimento di Economia, Metodi Quantitativi e Strategie di Impresa,
+    </address>
+    <address>Università degli Studi di Milano-Bicocca,</address>
+    <address>Piazza dell'Ateneo Nuovo 1, 20126 Milano,</address>
+    <address>Edificio U7, II piano, stanza 2030.</address>
+    <address>Tel: +39 02 6448 5868.</address>
+    <address>Email: aldo.solari<span>&#64;</span>unimib.it</address>
 
-<p> Sono Professore di 
-<SPAN id = "permutable2"  onmouseenter="permute('permutable2')" onmouseleave="unpermute('Statistics','permutable2')" onclick = "unpermute('Statistics','permutable2')">
-Statistica</SPAN> 
-presso l'Università degli Studi di Milano-Bicocca. 
-</p>
+    <p>
+      <dt>
+        <b><a href="ricerca.html">Ricerca</a></b>
+      </dt>
+    </p>
 
-<p>
-<address> Dipartimento di Economia, Metodi Quantitativi e Strategie di Impresa, </address>
-<address> Università degli Studi di Milano-Bicocca, </address>
-<address> Piazza dell'Ateneo Nuovo 1, 20126 Milano,
-</address>
-<address> Edificio U7, II piano, stanza 2030. </address>
-<address> Tel: +39 02 6448 5868. </address>
-<address> Email: aldo.solari<SPAN>&#64;</SPAN>unimib.it </address>
-<p> 
+    <p>
+      <dt>
+        <b><a href="insegnamenti.html">Insegnamenti</a></b>
+      </dt>
+    </p>
 
-<p> 
-<DT><B><a href="ricerca.html">Ricerca</a></b></dt>
-<p> 
-<DT><B><a href="insegnamenti.html">Insegnamenti</a></b></dt>
-<p> 
-<DT><a href="index.html">English version</a></dt>
-
-
-</BODY></HTML>
+    <p>
+      <dt><a href="index.html">English version</a></dt>
+    </p>
+    <script src="/js/index.js"></script>
+  </body>
+</html>
